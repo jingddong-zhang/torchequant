@@ -13,3 +13,8 @@ and get the parameterised equant, and the extended homeomorphism.
 
 To generate the results, run the **generate.py**.
 
+# Repo update
+
+We upload three code for three dynamics here for an validation of our code and data.
+More code and data is available under suitable request to zhangjd20@fudan.edu.cn, and we will open source all the code and data ASAP.
+
