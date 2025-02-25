@@ -15,6 +15,6 @@ To generate the results, run the **generate.py**.
 
 # Repo update
 
-We upload three code for three dynamics here for an validation of our code and data.
+We upload code and data for three dynamics in this repo for an validation of our Method.
 More code and data is available under suitable request to zhangjd20@fudan.edu.cn, and we will open source all the code and data ASAP.
 
